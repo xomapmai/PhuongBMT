@@ -40,3 +40,32 @@ Xem CONTRIBUTING.md. Chỉ đánh [x] khi có kết quả đã được xác nh�
   - Chờ phản hồi AI cụ thể, phần đã sửa và kết quả đánh giá bản mới; chưa xác nhận video đạt chuẩn hoặc đã đăng.
   - Hoa tiếp tục hướng dẫn nội dung và làm kịch bản trước theo tin nhắn 22:59; chưa có mốc hoàn thành được xác nhận.
   - Làm rõ ngày và tính chất tin “BÁO CÁO 6/11/2026”; chưa tự chuyển thành báo cáo hoàn tất.
+
+- [ ] 2026-11-05 - Bổ sung đánh giá của AI về cách lập kế hoạch và báo cáo của chị Phương theo yêu cầu trực tiếp của Hoa; nguồn: đoạn chat ngày 05/11/2026 và phần phân tích AI trong cuộc trò chuyện này; ĐỀ XUẤT để Hoa xem xét, chưa phải kết luận được Hoa duyệt hoặc hướng dẫn đã gửi cho chị Phương; chưa có deadline.
+
+  **Phạm vi đánh giá:** Chỉ dựa trên tin nhắn đã cung cấp; chưa xem video, footage, giọng thu âm hoặc kết quả chấm AI gốc. Không kết luận chất lượng video hay năng lực của chị Phương từ dữ liệu này.
+
+  **Nhận xét của AI:**
+  - Chị Phương đã bắt đầu áp dụng mẫu, bổ sung mục tiêu video 1–1,5 phút, kiểm tra AI và nộp báo cáo sau bản kế hoạch đầu tiên. Đây là dấu hiệu đã tiếp nhận hướng dẫn về hình thức.
+  - Tuy nhiên, cách ghi hiện tại còn thiên về lịch sinh hoạt và liệt kê việc đã làm. Chưa thể hiện rõ chuỗi: dự định tạo sản phẩm gì → thực tế tới đâu → đang vướng gì → cần nhóm hỗ trợ điều gì. Đây là nhận xét về nội dung tin nhắn, không khẳng định chị đã hiểu hay chưa hiểu toàn bộ quy trình.
+  - Kế hoạch 06/11 có đầu ra và lịch làm việc, nhưng chưa rõ video dành cho ai, muốn truyền tải điều gì và cần những cảnh nào để thể hiện nội dung. “Toàn–trung–cận” mô tả góc quay, chưa thay thế danh sách cảnh gắn với kịch bản.
+  - Tin “BÁO CÁO 6/11/2026” được gửi ngày 05/11 có thể là mẫu/dự kiến hoặc ghi nhầm ngày; cần hỏi lại, không dùng làm bằng chứng hoàn thành ngày 06/11.
+  - Báo cáo tối 05/11 có thông tin thực tế hơn, nhưng chưa truy được bản video nào nhận 4 điểm, lỗi cụ thể, phần đã sửa và kết quả sau sửa. Câu “chỉnh lại đến đạt” chưa đủ để nhóm biết tình trạng hiện tại hoặc xác nhận đạt chuẩn.
+
+  **ĐỀ XUẤT hướng dẫn tiếp theo — chờ Hoa xem xét:**
+  - Với plan: làm rõ người xem, ý chính/mục đích video, kịch bản hoặc các ý chính, cảnh cần quay theo nội dung, đầu ra cuối ngày và vướng mắc dự kiến. Nếu chị chưa xác định được thì hỗ trợ chốt trước khi quay.
+  - Với báo cáo: gửi link đúng phiên bản mới nhất; ghi đã làm tới đâu, AI nêu lỗi gì, đã sửa gì, kết quả kiểm tra sau sửa và điều cần hỗ trợ. Nếu có điểm thì ghi rõ của bản trước hay sau sửa.
+  - Khuyến khích báo đúng tình trạng dù chưa xong/chưa đạt để nhóm hỗ trợ; không biến việc nộp video hoặc có điểm AI thành xác nhận video đạt hoặc đã đăng.
+  - Các gợi ý này chưa phải quy trình/checklist chính thức, chưa giao việc hoặc đặt thêm KPI/deadline cho thành viên.
+
+  **ĐỀ XUẤT tin nhắn để Hoa cân nhắc gửi — chưa gửi:**
+
+  > Chị P ơi, chị đã ghi được lịch và các việc mình làm rồi á. Giờ mình bổ sung chút để tụi em nhìn vào biết chị đang tới đâu và hỗ trợ đúng chỗ nha.
+  >
+  > Plan ngày mai: Chị ghi giúp em video này muốn kể điều gì, cho ai xem. Trước khi quay, mình lên ý chính/kịch bản rồi liệt kê cảnh cần quay theo nội dung đó. Phần này chị chưa biết thì gửi ý tưởng để em cùng chị chốt trước nha.
+  >
+  > Báo cáo cuối ngày: Chị gửi link bản video mới nhất, kèm AI nhận xét lỗi gì, chị đã sửa gì và còn chỗ nào chưa xử lý được. Nếu có điểm thì ghi rõ điểm đó của bản trước hay sau sửa.
+  >
+  > Ví dụ hôm nay: “Chị làm lại video cũ, bản đầu AI chấm 4 điểm vì… Chị đã sửa… Đây là bản mới nhất… Chị còn vướng…”
+  >
+  > Mình báo đúng tình hình thực tế là được chị nha, chưa xong hay chưa đạt vẫn báo để tụi em biết hỗ trợ.
